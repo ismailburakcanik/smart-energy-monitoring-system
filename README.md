@@ -47,11 +47,11 @@ A machine learning model is used to classify connected electrical appliances bas
 
 ## Hardware
 
-![Hardware](images/hardware.jpg)
+![Hardware](images/hardware.jpeg)
 
 ## Web Interface
 
-![Web Dashboard](images/web-dashboard.png)
+![Web Dashboard](images/web-dashboard.jpeg)
 
 ## Measured Parameters
 
