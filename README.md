@@ -35,6 +35,7 @@ A machine learning model is also used to classify connected electrical appliance
 - Python
 - Machine Learning
 - Random Forest
+- Flask
 
 ## System Architecture
 
