@@ -38,8 +38,6 @@ A machine learning model is also used to classify connected electrical appliance
 
 ## System Architecture
 
-## System Architecture
-
 | Stage | Component |
 |---|---|
 | 1 | Electrical Load |
