@@ -38,19 +38,17 @@ A machine learning model is also used to classify connected electrical appliance
 
 ## System Architecture
 
-Electrical Load
-↓
-PZEM-004T V3
-↓
-ESP32
-↓
-Wi-Fi
-↓
-Web Interface
-↓
-Machine Learning
-↓
-Appliance Classification
+## System Architecture
+
+| Stage | Component |
+|---|---|
+| 1 | Electrical Load |
+| 2 | PZEM-004T V3 |
+| 3 | ESP32 |
+| 4 | Wi-Fi Communication |
+| 5 | Web Interface |
+| 6 | Machine Learning |
+| 7 | Appliance Classification |
 
 ## Measured Parameters
 
