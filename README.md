@@ -113,7 +113,7 @@ smart-energy-monitoring-system/
 │   ├── product.png
 │   ├── product-working.png
 │   ├── esp32-power-monitor.png
-│   ├── web-dashboard.png
+│   ├── verification-web-dashboard.png
 │   └── verification.png
 │
 ├── docs/
