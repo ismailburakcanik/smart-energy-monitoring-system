@@ -109,9 +109,9 @@ smart-energy-monitoring-system/
 ├── images/
 │   ├── block-diagram.png
 │   ├── circuit-diagram.png
-│   ├── hardware.jpg
-│   ├── product.jpg
-│   ├── product-working.jpg
+│   ├── hardware.png
+│   ├── product.png
+│   ├── product-working.png
 │   ├── esp32-power-monitor.png
 │   ├── web-dashboard.png
 │   └── verification.png
