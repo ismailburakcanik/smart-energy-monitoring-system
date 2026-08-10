@@ -51,7 +51,7 @@ A machine learning model is used to classify connected electrical appliances bas
 
 ## Web Interface
 
-![Web Dashboard](images/web-dashboard.jpeg)
+![Web Dashboard](images/esp32-power-monitor.jpeg)
 
 ## Measured Parameters
 
